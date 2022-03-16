@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="name_vs_name">name vs name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Home">Home</string>
+    <string name="Explore">Explore</string>
+    <string name="Trending">Trending</string>
+    <string name="Subscriptions">Subscriptions</string>
+    <string name="Library">Library</string>
+
+</resources>

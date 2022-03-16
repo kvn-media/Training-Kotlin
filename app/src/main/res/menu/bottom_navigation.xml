@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/berandaFragment"
+        android:icon="@drawable/home_icon"
+        android:title="@string/Home"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/exploreFragment"
+        android:icon="@drawable/ic_baseline_explore_24"
+        android:title="@string/Explore"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/trendingFragment"
+        android:icon="@drawable/ic_trending2_24"
+        android:title="@string/Trending"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/subsriptionsFragment"
+        android:icon="@drawable/ic_baseline_subscriptions_24"
+        android:title="@string/Subscriptions"
+        app:showAsAction="always"
+        />
+
+
+    <item
+        android:id="@+id/libraryFragment"
+        android:icon="@drawable/ic_baseline_video_library_24"
+        android:title="@string/Library"
+        app:showAsAction="always"
+        />
+
+</menu>
